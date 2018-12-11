@@ -1,19 +1,19 @@
 
-#Potifolio
+# Potifolio
 
 This project presents the potifolio for:
 
-##Author Name:
+## Author Name:
 
 Sandrine MUNGANYENDE
 
-##Description of Project
+## Description of Project
 
 ```
 This Project describes about the author, about her hobbies and interests as well as projects done she has on Git Hub.
 ```
 
-##Project Setup Instructions
+## Project Setup Instructions
 
 ```
 1. You need  a web browser and a text editor inorder to be able to use this project.
@@ -27,12 +27,12 @@ Browser: Google Chrome
 Text Editor:visual studio code,atom,notepad,... 
 ```
 
-###Downloading
+### Downloading
 
 Follow this link instructions to download google chrome: https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en
 Follow this link instructions to download Visual studio code:https://code.visualstudio.com/Download
 
-###Installing
+### Installing
 
 Install the browser and text editor of your choice by following these steps:
    -First locate your setups in the Downloads folder,
@@ -40,7 +40,7 @@ Install the browser and text editor of your choice by following these steps:
    -Agree the terms for installing
    -Click Next/continue then Finish to finish the installation
 
-###Using the Text Editor and Browser
+### Using the Text Editor and Browser
 
 -Text Editor
 
@@ -55,16 +55,16 @@ Then do Ctrl+S to save.
 Locate your directory, then double-clik on your .html file, it will be opened in the browser (google chrome in the above given example) and all your work will pe displayed there.
 
 
-##Author:
+## Author:
 
 * **Sandrine MUNGANYENDE** - *Initial work* - Find me at https://github.com/munganyendesandrine/
 
-##link to live site on GitHub Pages
+## link to live site on GitHub Pages
 ```
 You can find my repositories at: https://github.com/munganyendesandrine?tab=repositories
 ```
 
-##Copyright and License Information
+## Copyright and License Information
 Copyright©2018 Potifolio Project
 
 This project is licensed under the MIT License - see the [License.md](LICENSE.md) file for details
@@ -74,4 +74,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
