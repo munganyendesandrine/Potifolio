@@ -30,6 +30,7 @@ Text Editor:visual studio code,atom,notepad,...
 ### Downloading
 
 Follow this link instructions to download google chrome: https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en
+
 Follow this link instructions to download Visual studio code:https://code.visualstudio.com/Download
 
 ### Installing
