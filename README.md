@@ -7,11 +7,13 @@ This project presents the potifolio for:
 Sandrine MUNGANYENDE
 
 ##Description of Project
+
 ```
 This Project describes about the author, about her hobbies and interests as well as projects done she has on Git Hub.
 ```
 
 ##Project Setup Instructions
+
 ```
 1. You need  a web browser and a text editor inorder to be able to use this project.
 2. You  have to download a browser and a text editor of your choice
@@ -25,6 +27,7 @@ Text Editor:visual studio code,atom,notepad,...
 ```
 
 ###Downloading
+
 Follow this link instructions to download google chrome: https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en
 Follow this link instructions to download Visual studio code:https://code.visualstudio.com/Download
 
@@ -38,21 +41,24 @@ Install the browser and text editor of your choice by following these steps:
 
 ### Using the Text Editor and Browser
 
-####Text Editor
+-Text Editor
+
 After creating the project directory, go inside it using cd command then run your text editor. In the above example of visual studio code text editor, write "code ." to be able to use it.
 Locate your .html file or .css file to write tags and style them. 
 Let's notice that you have always to remember to link the .css file into .html file for later being able to display your css styles.
 
 Then do Ctrl+S to save.
 
-####Browser
+-Browser
+
 Locate your directory, then double-clik on your .html file, it will be opened in the browser (google chrome in the above given example) and all your work will pe displayed there.
 
 
 ## Author:
 
 * **Sandrine MUNGANYENDE** - *Initial work* - Find me at https://github.com/munganyendesandrine/
-#link to live site on GitHub Pages
+
+##link to live site on GitHub Pages
 ```
 You can find my repositories at: https://github.com/munganyendesandrine?tab=repositories
 ```
