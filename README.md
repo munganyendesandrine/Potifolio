@@ -3,8 +3,6 @@
 
 This project presents the potifolio for:
 
-## Author Name:
-
 Sandrine MUNGANYENDE
 
 ## Description of Project
@@ -56,7 +54,7 @@ Then do Ctrl+S to save.
 Locate your directory, then double-clik on your .html file, it will be opened in the browser (google chrome in the above given example) and all your work will pe displayed there.
 
 
-## Author:
+## Author Name:
 
 * **Sandrine MUNGANYENDE** - *Initial work* - Find me at https://github.com/munganyendesandrine/
 
